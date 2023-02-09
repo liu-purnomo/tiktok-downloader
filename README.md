@@ -5,7 +5,7 @@
 a very simple web version, to download the video in the best quality.
 
 ### how to use the app locally?
-- `git clone https://github.com/zalazarc20/tiktokDL.git`
+- `git clone https://github.com/liu-purnomo/tiktokdownloader.git`
 - `npm install`
 - once the modules are installed, start the server with `npm run dev` (you need nodemon).
 - `npm install nodemon -g`
